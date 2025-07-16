@@ -1,6 +1,6 @@
 [
   {
-    "id": "0000000000000000",
+    "id": "00000000",
     "username": "user1",
     "password": "0000",
     "expiresAt": "2025-08-14",
@@ -21,9 +21,9 @@
     "allowOffline": false
   },
   {
-    "id": "0000000000000000",
+    "id": "095004b8757d9d7a",
     "username": "Admin",
-    "password": "12345",
+    "password": "Evann332",
     "expiresAt": "2026-08-01",
     "allowOffline": true
   }

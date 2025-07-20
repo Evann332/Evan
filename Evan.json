@@ -13,7 +13,6 @@
     "expiresAt": "2027-07-14",
     "allowOffline": false
   },
-  [
   {
     "id": "10309f69dc2c9f75",
     "username": "Ail",
@@ -35,20 +34,11 @@
     "expiresAt": "2026-12-30",
     "allowOffline": false
   },
-  {
-    "id": "0000000000000000",
-    "username": "Admin",
-    "password": "12345",
-    "expiresAt": "2026-08-01",
-    "allowOffline": true
-  }
-]
-
 {
     "id": "a385d19468b9820e",
     "username": "muntadher",
     "password": "Mm1212",
-    "expiresAt": "2026-7-20",
+    "expiresAt": "2025-7-20",
     "allowOffline": false
   },
   {
@@ -58,4 +48,4 @@
     "expiresAt": "2025-08-01",
     "allowOffline": true
   }
-]
+

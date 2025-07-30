@@ -1,8 +1,8 @@
 [
   {
-    "id": "8bb87c150cf6576c",
-    "username": "qqw",
-    "password": "qqw123456",
+    "id": "00000",
+    "username": "0000",
+    "password": "00000",
     "expiresAt": "2025-07-31",
     "allowOffline": false
   },
@@ -14,9 +14,9 @@
     "allowOffline": false
   },
   {
-    "id": "29048d02ae869db9",
-    "username": "www",
-    "password": "www123456",
+    "id": "000000",
+    "username": "0000",
+    "password": "0000",
     "expiresAt": "2025-07-31",
     "allowOffline": false
   },

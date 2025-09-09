@@ -1,8 +1,8 @@
 [
   {
-    "id": "2b7958a62229f915",
+    "id": "00000",
     "username": "ww0000",
-    "password": "ww00000",
+    "password": "000",
     "expiresAt": "2025-08-2",
     "allowOffline": false
   },
@@ -21,16 +21,16 @@
     "allowOffline": false
   },
   {
-    "id": "7d83f5a605b7caa7",
-    "username": "qqww",
-    "password": "qqw1234",
+    "id": "0000",
+    "username": "0000",
+    "password": "0000",
     "expiresAt": "2025-12-20",
     "allowOffline": false
   },
   {
-    "id": "133a7939c074b364",
-    "username": "w000",
-    "password": "ww0000",
+    "id": "000",
+    "username": "000",
+    "password": "000",
     "expiresAt": "2025-12-12",
     "allowOffline": false
   },

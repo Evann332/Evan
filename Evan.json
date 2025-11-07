@@ -7,6 +7,20 @@
     "allowOffline": false
   },
   {
+    "id": "2fdadd444a3e37f4",
+    "username": "gg000",
+    "password": "gg0000",
+    "expiresAt": "2025-11-8",
+    "allowOffline": false
+  },
+  {
+    "id": "38d965c6ed",
+    "username": "w0000",
+    "password": "www000",
+    "expiresAt": "2025-12-13",
+    "allowOffline": false
+  },
+  {
     "id": "d6d27bdba5513c58",
     "username": "mm000",
     "password": "mm0000",
